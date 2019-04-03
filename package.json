@@ -1,0 +1,22 @@
+{
+  "name": "qrcaptureapi",
+  "version": "0.0.1",
+  "description": "Capture QR and store it on database so it can be viewed later on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billyinferno/QRCaptureAPI.git"
+  },
+  "keywords": [
+    "QR"
+  ],
+  "author": "I Gede Adi Martha Ardiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billyinferno/QRCaptureAPI/issues"
+  },
+  "homepage": "https://github.com/billyinferno/QRCaptureAPI#readme"
+}
