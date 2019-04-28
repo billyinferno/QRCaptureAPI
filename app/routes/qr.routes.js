@@ -1,4 +1,10 @@
-// routes/qr.route.js
+////////////////////////////////////////////////////////////////////////////////
+/// ./app/routes/qr.route.js                                                 ///
+/// ------------------------------------------------------------------------ ///
+/// router for /QR/ for QR API Services. Here we will server all the         ///
+/// available from QR API Services, such as List All QR, Get QR by ID,       ///
+/// Insert QR, Update QR, and Delete QR.                                     ///
+////////////////////////////////////////////////////////////////////////////////
 var route_name = "QR";
 
 module.exports = function(server, db, resp) {;

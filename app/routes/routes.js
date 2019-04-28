@@ -1,4 +1,9 @@
-// routes/routes.js
+////////////////////////////////////////////////////////////////////////////////
+/// ./app/routes/routes.js                                                   ///
+/// ------------------------------------------------------------------------ ///
+/// Main Routes file that will handle the ECHO test and include all the      ///
+/// routes available by QR API Services.                                     ///
+////////////////////////////////////////////////////////////////////////////////
 
 const qrRoutes = require('./qr.routes');
 

@@ -2,7 +2,7 @@
   "name": "qrcaptureapi",
   "version": "0.0.1",
   "description": "Capture QR and store it on database so it can be viewed later on.",
-  "main": "boot.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon boot.js"
@@ -29,6 +29,7 @@
     "express-validator": "^5.3.1",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
     "morgan": "^1.9.1",
     "mysql": "^2.16.0",
     "rotating-file-stream": "^1.4.0",
